@@ -114,7 +114,6 @@ const App = () => {
             //   margin: "-200px",
             amount: "all",
           }}
-          
           onViewportEnter={() => console.log("Enter!")}
           onViewportLeave={() => console.log("Exit!")}
           className="absolute bottom-0 left-0 right-0 top-0 z-10 bg-indigo-500"
