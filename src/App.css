@@ -1,20 +1,19 @@
-.app{
-    display: grid;
-    flex-wrap: wrap;
-    gap: 40px;
-    grid-template-columns: 1fr 1fr 1fr;
-    padding-top: 500px;
-    background-color: white;
-    justify-items: center;
-    align-items: center;
-
+.app {
+  display: grid;
+  flex-wrap: wrap;
+  gap: 40px;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-top: 500px;
+  background-color: white;
+  justify-items: center;
+  align-items: center;
 }
 
-.test{
-    margin: 20px;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-    color: red;
-    border: 1px solid red;
+.test {
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  color: red;
+  border: 1px solid red;
 }
