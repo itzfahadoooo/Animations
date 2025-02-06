@@ -113,9 +113,6 @@ const App = () => {
             //   once: true,
             //   margin: "-200px",
 
-
-
-            
             amount: "all",
           }}
           onViewportEnter={() => console.log("Enter!")}
